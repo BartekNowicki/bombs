@@ -11,7 +11,6 @@ export default class Board extends TheDOM {
         this.cells = [];
         this.blocks = [];      
         this.newBunch = [];
-        // this.boardWidth = 0;
         this.element = null;
         this.deltaY = 0;
         this.deltaX = 0;

@@ -1,15 +1,3 @@
-//         const matchingBlock = this.blocks.find(block => block.row === cell.row && block.col === cell.col);
-// console.log(`cell under is ${this.cells[row][col].occupied ? "occupied" : "free"}`);
-// console.table(this.blocks, ["color", "row", "col"]);
-//         console.group();
-//         // console.table(this.blocks, ["row", "col", "stopped"]);
-//         // console.warn();
-//         // console.log('%c ok ', 'background: #222; color: #bada55');
-//         // console.table(object);
-//         // console.dir(this.blocks);
-//         // console.dir(this.playBtn, {colors: true, depth: null});
-//         console.groupEnd();  
-
 import TheDOM from './TheDOM.js';
 import bombBlack from './images/bombBlack.svg';
 import Board from './Board.js';
